@@ -1,6 +1,6 @@
 # README
 
-本仓库集中放置我创作的发表于力扣中国的文章。本人力扣主页 🏠 [@yukiyama](https://leetcode.cn/u/yukiyama/) 。
+本仓库集中放置由我创作的发表于力扣中国的文章。本人力扣主页 🏠 [@yukiyama](https://leetcode.cn/u/yukiyama/) 。
 
 如果各位觉得这些文章对你有帮助，可以点个 🌟，也欢迎各位 PR 抓虫 🐞。
 
