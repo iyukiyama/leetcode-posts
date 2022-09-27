@@ -1,4 +1,4 @@
-# README
+# 朋友你好👋
 
 本仓库集中放置由我创作的发表于力扣中国的文章。本人力扣主页 🏠 [@yukiyama](https://leetcode.cn/u/yukiyama/) 。
 
