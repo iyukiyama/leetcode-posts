@@ -1,5 +1,7 @@
 # splay树 (树ADT连载 5/13)
 
+> 可在我的 [github仓库](https://github.com/iyukiyama/leetcode-posts) 中获取本文的 markdown 源文件及相关代码。
+
 ❗️ **【NEW】** ❗️
 
 - 9-15:  [红黑树从入门到看开](https://leetcode.cn/circle/discuss/SwgIJV/)
