@@ -1,6 +1,6 @@
 # AVL树 (树ADT连载 4/13)
 
-> 可在我的 [github仓库](https://github.com/iyukiyama/leetcode-posts) 中获取本文的 markdown 源文件及相关代码。
+> 可在我的 [github仓库](https://github.com/iyukiyama/leetcode-posts) 中获取本文和其他文章的 markdown 源文件及相关代码。
 
 ❗️ **【NEW】** ❗️
 
