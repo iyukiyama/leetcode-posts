@@ -40,7 +40,7 @@ yuki的其他文章如下，欢迎阅读指正！
 | 5. [splay树](https://leetcode.cn/circle/discuss/BCK17f/)     | [20220817]  5千字                        |
 | 6. [红黑树从入门到看开](https://leetcode.cn/circle/discuss/SwgIJV/) 🔥🤯🤯🤯 | [20220915]  3万字/3.1k览/186藏/52赞      |
 | 10. [树状数组从入门到下车](https://leetcode.cn/circle/discuss/qGREiN/) 🔥🤯 | [20220722]  1.1万字/3.9k览/129藏/49赞    |
-| 11. [线段树从入门到急停](https://leetcode.cn/circle/discuss/H4aMOn/) 🔥🤯 | [20220726]  2.5万字/4.8k览/324藏/93赞    |
+| 11. [线段树从入门到急停](https://leetcode.cn/circle/discuss/H4aMOn/) 🔥🔥🤯 | [20220726]  2.5万字/4.8k览/324藏/93赞    |
 | [图论相关证明系列](https://leetcode.cn/circle/discuss/GV0JrV/) | 系列文章                                 |
 | 1. [Dijkstra正确性证明](https://leetcode.cn/circle/discuss/jJQn7V/) 🤯 | [20220531]                               |
 | 2. [Prim正确性证明](https://leetcode.cn/circle/discuss/VVEc8f/) 🤯 | [20220919]                               |
