@@ -100,7 +100,7 @@ AVL 树以 **「旋转 (rotation)」** 操作保证 **任意结点的左右子�
 
 ![image.png](https://pic.leetcode-cn.com/1660706050-mewSNE-image.png)
 
-$Y$ 不可能与当前的 $X$ 在同一水平上，否则在插入前即失衡。$Y$ 也不可能与 $Z$ 在同一水平上，否则插入后先失衡的是 $k1$（在插入结点通往根路上第一个失衡）。
+上左图中 $X$ , $Y$ , $Z$ 的高度如此表现的依据： $Y$ 不可能与当前的 $X$ 在同一水平上，否则在插入前即失衡。$Y$ 也不可能与 $Z$ 在同一水平上，否则插入后先失衡的是 $k1$（在插入结点通往根路上第一个失衡）。
 
 
 
@@ -113,8 +113,8 @@ private AvlNode<E> rotateRight(AvlNode<E> k2){ // 传入失衡结点
     AvlNode<E> k1 = k2.left;
     k2.left = k1.right;
     k1.right = k2;
-    k2.height = Math.max(height(k2.left), height(k2.right)); // 调整k2高度
-    k1.height = Math.max(height(k1.left), height(k1.right)); // 调整k1高度
+    k2.height = Math.max(height(k2.left), height(k2.right)) + 1; // 调整k2高度
+    k1.height = Math.max(height(k1.left), height(k1.right)) + 1; // 调整k1高度
     return k1; // 返回调整后原失衡处结点 (已变为 k1)
 }
 ```
@@ -136,8 +136,8 @@ private AvlNode<E> rotateLeft(AvlNode<E> k1){ // 传入失衡结点
     k1.right = k2.left;
     k2.left = k1;
     // 调整平衡后更新k1，k2的高度
-    k1.height = Math.max(height(k1.left), height(k1.right));
-    k2.height = Math.max(height(k2.left), height(k2.right));
+    k1.height = Math.max(height(k1.left), height(k1.right)) + 1;
+    k2.height = Math.max(height(k2.left), height(k2.right)) + 1;
     return k2; // 返回调整后原失衡处结点 (已变为 k2)
 }
 ```
@@ -564,16 +564,16 @@ class AvlTree<E extends Comparable<? super E>>{
         AvlNode<E> k1 = k2.left;
         k2.left = k1.right;
         k1.right = k2;
-        k2.height = Math.max(height(k2.left), height(k2.right)); // 调整k2高度
-        k1.height = Math.max(height(k1.left), height(k1.right)); // 调整k1高度
+        k2.height = Math.max(height(k2.left), height(k2.right)) + 1; // 调整k2高度
+        k1.height = Math.max(height(k1.left), height(k1.right)) + 1; // 调整k1高度
         return k1; // 返回调整后原失衡处结点
     }
     private AvlNode<E> rotateLeft(AvlNode<E> k1){ // 左单旋
         AvlNode<E> k2 = k1.right;
         k1.right = k2.left;
         k2.left = k1;
-        k1.height = Math.max(height(k1.left), height(k1.right)); // 调整k1高度
-        k2.height = Math.max(height(k2.left), height(k2.right)); // 调整k2高度
+        k1.height = Math.max(height(k1.left), height(k1.right)) + 1; // 调整k1高度
+        k2.height = Math.max(height(k2.left), height(k2.right)) + 1; // 调整k2高度
         return k2; // 返回调整后原失衡处结点
     }
     private AvlNode<E> rotateLeftRight(AvlNode<E> k3){ // 左右双旋
