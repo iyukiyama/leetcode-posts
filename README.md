@@ -9,21 +9,22 @@
 **强烈建议 clone 仓库到本地，使用 Typora 阅读所有 markdown 格式文章，以获得最佳体验。**
 
 
-[20220927] 当前文章列表如下。
 
-| 文章                                                         | [发布时间] 字数/览/藏/赞 (~09-23)        |
+[20221020] 当前文章列表如下。
+
+| 文章                                                         | [发布时间] 字数/览/藏/赞 (~2022-10-20)   |
 | ------------------------------------------------------------ | ---------------------------------------- |
-| [十大排序从入门到入赘](https://leetcode.cn/circle/discuss/eBo9UB/)  🔥🔥🔥 | [20220516]  2.5万字/58.2k览/3.5k藏/865赞 |
-| [二分查找从入门到入睡](https://leetcode.cn/circle/discuss/ooxfo8/) 🔥🔥🔥 | [20220509]  2.3万字/35.9k览/2.1k藏/484赞 |
-| [并查集从入门到出门](https://leetcode.cn/circle/discuss/qmjuMW/) 🔥🔥 | [20220514]  1.2万字/15.1k览/924藏/279赞  |
-| [图论算法从入门到放下](https://leetcode.cn/circle/discuss/FyPTTM/) 🔥🔥 | [20220617]  5.6万字/17.3k览/1.2k藏/341赞 |
+| [十大排序从入门到入赘](https://leetcode.cn/circle/discuss/eBo9UB/)  🔥🔥🔥 | [20220516]  2.5万字/64.8k览/3.7k藏/937赞 |
+| [二分查找从入门到入睡](https://leetcode.cn/circle/discuss/ooxfo8/) 🔥🔥🔥 | [20220509]  2.3万字/38.4k览/2.1k藏/503赞 |
+| [并查集从入门到出门](https://leetcode.cn/circle/discuss/qmjuMW/) 🔥🔥 | [20220514]  1.2万字/17.9k览/1.0k藏/321赞 |
+| [图论算法从入门到放下](https://leetcode.cn/circle/discuss/FyPTTM/) 🔥🔥 | [20220617]  5.6万字/19.9k览/1.3k藏/365赞 |
 | 树ADT系列 (预计13篇)                                         | 系列文章，连载中                         |
 | 3. [二叉查找树](https://leetcode.cn/circle/discuss/wPzlSb/)  | [20220801]  5千字                        |
 | 4. [AVL树](https://leetcode.cn/circle/discuss/zbwD3p/)       | [20220817]  5千字                        |
 | 5. [splay树](https://leetcode.cn/circle/discuss/BCK17f/)     | [20220817]  5千字                        |
-| 6. [红黑树从入门到看开](https://leetcode.cn/circle/discuss/SwgIJV/) 🔥🤯🤯🤯 | [20220915]  3万字/3.1k览/186藏/52赞      |
-| 10. [树状数组从入门到下车](https://leetcode.cn/circle/discuss/qGREiN/) 🔥🤯 | [20220722]  1.1万字/3.9k览/129藏/49赞    |
-| 11. [线段树从入门到急停](https://leetcode.cn/circle/discuss/H4aMOn/) 🔥🔥🤯 | [20220726]  2.5万字/4.8k览/324藏/93赞    |
+| 6. [红黑树从入门到看开](https://leetcode.cn/circle/discuss/SwgIJV/) 🔥🤯🤯🤯 | [20220915]  3万字/5.3k览/269藏/72赞      |
+| 10. [树状数组从入门到下车](https://leetcode.cn/circle/discuss/qGREiN/) 🔥🤯 | [20220722]  1.4万字/5.8k览/196藏/72赞    |
+| 11. [线段树从入门到急停](https://leetcode.cn/circle/discuss/H4aMOn/) 🔥🤯 | [20220726]  2.5万字/8.7k览/481藏/138赞   |
 | [图论相关证明系列](https://leetcode.cn/circle/discuss/GV0JrV/) | 系列文章                                 |
 | 1. [Dijkstra正确性证明](https://leetcode.cn/circle/discuss/jJQn7V/) 🤯 | [20220531]                               |
 | 2. [Prim正确性证明](https://leetcode.cn/circle/discuss/VVEc8f/) 🤯 | [20220919]                               |
