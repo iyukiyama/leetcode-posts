@@ -1,3 +1,21 @@
+---
+title: splay树
+tags:
+  - splay树
+  - 平衡二叉树
+categories: 算法与数据结构
+description: >-
+  本文介绍一种易于实现的平衡二叉查找树 –– splay树。相比 AVL 树，伸展树并不严格地使 BST 每次操作后保持平衡，但伸展树保证 m
+  次操作的最坏时间复杂度为 mO(logn)，也就是说其主要操作的均摊时间复杂度*为 O(logn) 。
+cover: >-
+  https://raw.githubusercontent.com/iyukiyama/pics/master/hexo-iyukiyama/site_img/posts/algorithms/splay-tree-bg.png
+katex: true
+abbrlink: splay-tree
+keywords:
+top_img:
+comments:
+---
+
 # splay树 (树ADT连载 5/13)
 
 > - 可在作者的 [github仓库](https://github.com/iyukiyama/leetcode-posts) 中获取本文和其他文章的 markdown 源文件及相关代码。

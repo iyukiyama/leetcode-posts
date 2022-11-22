@@ -1,3 +1,20 @@
+---
+title: AVL树
+tags:
+  - AVL树
+  - 平衡二叉树
+  - 旋转操作
+categories: 算法与数据结构
+description: 本文介绍一种最早提出的自平衡二叉查找树 –– AVL树。重点展现如何设计一个AVL树类，分析主要方法的代码实现，并给出该类的完整实现代码。
+cover: >-
+  https://raw.githubusercontent.com/iyukiyama/pics/master/hexo-iyukiyama/site_img/posts/algorithms/avl-tree-bg.png
+katex: true
+abbrlink: avl-tree
+keywords:
+top_img:
+comments:
+---
+
 # AVL树 (树ADT连载 4/13)
 
 > - 可在作者的 [github仓库](https://github.com/iyukiyama/leetcode-posts) 中获取本文和其他文章的 markdown 源文件及相关代码。
